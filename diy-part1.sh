@@ -16,4 +16,3 @@
 # Add a feed source
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
-git clone https://github.com/hexiao5688/luci-app-poweroff.git package/lean/luci-app-poweroff
